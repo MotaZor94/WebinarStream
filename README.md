@@ -1,1 +1,1 @@
-# ReactWebinarStream
+# Streaming Platform for Webinars
